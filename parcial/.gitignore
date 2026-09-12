@@ -1,0 +1,13 @@
+# Compilación de .NET
+bin/
+obj/
+
+# Archivos generados por Visual Studio y VS Code
+.vs/
+.vscode/
+
+# Archivos de usuario y sistema
+*.user
+*.suo
+*.userosscache
+.DS_Store
